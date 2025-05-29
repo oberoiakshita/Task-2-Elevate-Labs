@@ -1,0 +1,47 @@
+
+PHISHING EMAIL REPORT
+
+Date of Report: 29 May 2025
+Reported By: [Your Name]
+Department: [Your Department]
+Recipient Email: [Your Email Address]
+
+1. EMAIL DETAILS
+
+- Sender: noreply@zoomsecurity.com
+- Subject: Urgent: Immediate Action Required to Prevent Zoom Account Suspension
+- Date Received: [Enter Date Email Was Received]
+- Email Body Highlights:
+  • Uses Zoom branding and logo
+  • Message begins with "Dear {{first_name}}"
+  • Mentions urgent need to update account within 24 hours
+  • Contains a call-to-action button: “Update My Zoom Account”
+  • No contact details, signature, or verification options
+
+2. REASONS THIS EMAIL IS SUSPICIOUS (PHISHING INDICATORS)
+
+- Urgent Call to Action: Threatens account suspension within 24 hours to provoke panic and quick action
+- Incorrect/Impersonated Email Domain: Uses 'zoomsecurity.com' instead of official Zoom domain 'zoom.us'
+- No Personalization: Greeting uses a placeholder '{{first_name}}', not the recipient’s actual name
+- Lack of Signature: No official contact details, signature, or proper closing
+- Visual Imitation: Mimics Zoom branding to appear legitimate
+- Suspicious Button: “Update My Zoom Account” button may lead to credential-stealing site
+- No Alternate Verification Method: No contact number or in-app notice to confirm the request
+
+3. RISK ASSESSMENT
+
+This email is highly likely to be a phishing attempt aimed at stealing Zoom account credentials. If a user clicks the button and enters login information, their account may be compromised, potentially exposing sensitive data.
+
+4. RECOMMENDED ACTIONS
+
+- Do not click any links or buttons in the email.
+- Report the email to IT/Security team immediately.
+- Mark as phishing in your email client.
+- Delete the email after reporting.
+- Verify account activity by logging into Zoom through a trusted URL (https://zoom.us).
+- Conduct user awareness training if needed.
+
+5. ATTACHMENTS / EVIDENCE
+
+- Screenshot of the email
+- Metadata if available (e.g., email headers)
